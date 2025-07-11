@@ -5,3 +5,4 @@ matplotlib
 seaborn
 librosa
 scikit-learn
+Beefy PC to run allat
